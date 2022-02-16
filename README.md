@@ -13,9 +13,12 @@ $ pkg install python2 -y
 $ pkg install git -y
 $ git clone https://github.com/Afikfok/anjay
 $ cd anjay
-$ python2 anjay.py
-$ python2 anjay.py <url>
+$ python2 evo.py
+$ python2 evo.py <url>
 untuk menghentikan ddos "ctrl+z"
 ```
 ## 
 <br>
+
+
+
